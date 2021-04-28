@@ -1,3 +1,4 @@
+![Screenshot_20210425-163708](https://user-images.githubusercontent.com/83202520/116387616-d3e4fb00-a7cf-11eb-81b8-fd0c7dd5feb0.png)
 ---
 title: Sudo mode
 intro: '{% data variables.product.product_name %} asks you for your password before you can modify your email address, authorize third-party applications, or add new public keys, or initiate other *sudo-protected* actions.'
